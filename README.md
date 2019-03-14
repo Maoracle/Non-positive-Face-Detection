@@ -1,6 +1,6 @@
 # Non-positive-Face-Detection
 Graduate research projects
-人脸库（facelib这个文件夹中）：testlib:实验室环境下拍摄而得；
+人脸库：testlib:实验室环境下拍摄而得；
 多姿态人脸库；
 加州理工大学彩色人脸库，主要用于测试肤色模型的好坏。
 
